@@ -3,7 +3,9 @@
 ### Dependencies
 Git
 Nvim
-a C compiler
+a C compiler (mingw for windows, gcc for unix)
+fzf
+
 
 ### Setup
 #### Windows
