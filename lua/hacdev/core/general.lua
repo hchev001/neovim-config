@@ -42,6 +42,6 @@ opt.linebreak = true -- avoid wrapping a line in the middle of a word
 -- folding options
 opt.foldmethod = "indent" -- fold based on identation levels
 opt.foldnestmax = 3 -- only fold up to three nested levels
-opt.nofoldenable = true -- disable folding by default
+opt.foldenable = false -- disable folding by default
 
 
