@@ -5,7 +5,7 @@ return {
     local configs = require("nvim-treesitter.configs")
 
     configs.setup({
-      ensure_installed = { "c", "lua", "vim", "vimdoc", "query", "c_sharp", "css", "csv", "go", "graphql", "haskell", "java", "jsdoc", "json", "regex", "scala", "scss", "sql","svelte", "tsx" },
+      ensure_installed = { "c", "lua", "vim", "vimdoc", "query", "c_sharp", "css", "csv", "go", "graphql", "haskell", "java", "jsdoc", "json", "regex", "scala", "scss", "sql","svelte", "tsx", "dart" },
       sync_install = false, -- install parsers synchronously, applies to ensure_installed
       auto_install = false,
       highlight = {
