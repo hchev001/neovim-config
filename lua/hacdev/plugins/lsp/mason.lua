@@ -38,6 +38,7 @@ return {
         "prismals",
         "pyright",
         "omnisharp",
+        "eslint"
       },
     })
 
@@ -47,8 +48,7 @@ return {
         "stylua", -- lua formatter
         "isort", -- python formatter
         "black", -- python formatter
-        "pylint",
-        "eslint_d",
+        "pylint"
       },
     })
   end,
